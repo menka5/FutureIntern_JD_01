@@ -8,6 +8,7 @@ A basic calculator program that performs arithmetic operations:
 * Subtraction
 * Multiplication
 * Division
+* Modulus
 
 ## Features
 
